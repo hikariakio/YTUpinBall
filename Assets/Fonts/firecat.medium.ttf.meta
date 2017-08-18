@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e0ebdca9b3236434c887338746735834
+timeCreated: 1500999270
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Firecat
+  fontNames:
+  - Firecat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
